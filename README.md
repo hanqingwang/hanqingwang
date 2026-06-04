@@ -2,13 +2,13 @@
 
 <p>Welcome to my page! </br> I'm <b>Hanqing</b>, Senior Quality Engineer specializing in Mobile Test Automation at <a href="https://contentsquare.com">ContentSquare</a>. Originally from <img src="https://cdn-icons-png.flaticon.com/512/323/323363.png" width="13"/> <b>China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.</p>
 
-<h3>About</h3>
+<h3>What I do</h3>
 
-- Focus on mobile end-to-end testing and test automation
-- Implement automatic tests on BrowserStack across iOS, Android, Flutter, and React Native
-- Enhance, maintain and refactor CI/CD workflows (GitHub Actions) and integration test frameworks
-- Provide validation and support for cross-team projects interacting with our product perimeter
-- Build internal quality tools to improve processes and test knowledge sharing
+- Design and maintain cross-platform mobile SDK test frameworks
+- Build CI/CD pipelines with GitHub Actions for automated test execution
+- Develop internal quality tools for test management and monitoring
+- Manage cloud testing infrastructure on BrowserStack at scale
+- Architect mock servers and test infrastructure
 
 <h3>Career at ContentSquare</h3>
 
