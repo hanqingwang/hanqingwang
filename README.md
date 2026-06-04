@@ -45,20 +45,9 @@ QE Intern                    Jun 2018 – Nov 2018
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-<h3>Top Skills</h3>
-
-`Mobile Testing` · `Test Automation` · `Continuous Integration`
-
 <h3>Education</h3>
 
-🎓 **INSA Rouen Normandie** — Diplôme d'Ingénieur (Master's degree)  
-Informatique et Technologie de l'Information (2016 – 2019)
-
-<h3>Certifications</h3>
-
-<p>
-  <img alt="Anthropic" src="https://img.shields.io/badge/Claude_Code_in_Action-191919?style=flat-square&logo=anthropic&logoColor=white" /> Anthropic (2025)
-</p>
+🎓 **INSA Rouen Normandie** — Diplôme d'Ingénieur (Master's degree)
 
 <h3>Languages</h3>
 
