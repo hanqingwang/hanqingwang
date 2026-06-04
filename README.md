@@ -6,7 +6,7 @@
 
 <h3>What I do</h3>
 
-- Design and maintain cross-platform mobile SDK test frameworks (700+ PRs merged)
+- Design and maintain cross-platform mobile SDK test frameworks
 - Build CI/CD pipelines with GitHub Actions for automated test execution
 - Develop internal quality tools (Quality Hub) for test management and monitoring
 - Manage cloud testing infrastructure on BrowserStack at scale
